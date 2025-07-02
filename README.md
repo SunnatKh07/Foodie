@@ -2,6 +2,10 @@
 
 Welcome to **Maxican Pizza**, a modern and vibrant fast food website that showcases delicious meals, drinks, and great restaurant experiences. Built to promote local food businesses, this site combines strong visuals, menu highlights, and special offers to attract food lovers.
 
+### Demo Screeshots
+
+![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+
 ---
 
 ## 🍴 What's Inside?
@@ -33,11 +37,4 @@ This website is designed to:
 - **CSS3** / **SCSS** for design and layout
 - **JavaScript** for interactive features
 
----
-
-## 📁 File Structure
-
-
-### Demo Screeshots
-
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+Vercel ---> (https://portfolio-m3bk.vercel.app/)
